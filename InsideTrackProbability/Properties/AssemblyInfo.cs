@@ -7,13 +7,13 @@ using System.Windows;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("WpfApp1")]
+[assembly: AssemblyTitle("Inside Track Probability")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WpfApp1")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("caiolopssants")]
+[assembly: AssemblyProduct("InsideTrackProbability")]
+[assembly: AssemblyCopyright("InsideTrackProbability Copyright ©  2021")]
+[assembly: AssemblyTrademark("caiolopssants")]
 [assembly: AssemblyCulture("")]
 
 // Definir ComVisible como false torna os tipos neste assembly invisíveis
@@ -53,3 +53,5 @@ using System.Windows;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: Guid("677a01cd-8713-4e10-8fdb-20cab0f4c13e")]
+
